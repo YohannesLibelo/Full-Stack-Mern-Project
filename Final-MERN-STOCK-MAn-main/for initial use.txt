@@ -1,0 +1,31 @@
+please type npm start on the front end to start the projet 
+
+Admin 
+email :"kevin@gmail.com"
+password:"@Kevin25"
+
+User 
+email :"Jane@gmail.com"
+password : Ry2sD4UvQ@3T
+
+
+also this is the new users password validator 
+The Password must have 
+ // Minimum length 8
+ // Maximum length 100
+) // Must have uppercase letters
+) // Must have lowercase letters
+) // Must have at least 1 digits
+ Should not have spaces
+
+All the deploying sites that are recommended are asking for my payment details and it was difficult to find free deploying service. Especially Heroku. 
+In addition my bootcamp is expiring tomorrow and I would appreciate it if the marker could focus on the main requirements of the MERN application as I demonstrated a good understanding of the concept. If not the bootcamp is going to expire and I wouldn’t be able to access my  dashboard, the feeback and  I have to enroll again to access it. 
+
+Thank you 
+
+RE:
+//new comments 
+
+I have made all the changes however  this specific comment isnt being reflecting on my side -   "When logged in with the admin credentials, I tried to add stock however upon clicking the submit button I was automatically logged out of the application" and an admins can add a sttock and not be logged out. 
+
+
