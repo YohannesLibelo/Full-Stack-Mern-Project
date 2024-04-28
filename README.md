@@ -1,6 +1,3 @@
-Here's the formatted version of your README file:
-
----
 
 # Inventory Management App
 
