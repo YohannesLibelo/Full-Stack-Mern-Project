@@ -100,3 +100,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 This README template is inspired by the [Standard Readme](https://github.com/RichardLitt/standard-readme) specification.
 
+
+# Software Requirements
+
+![Capstone wireframe](https://github.com/YohannesLibelo/Full-Stack-Mern-Project/assets/142489620/652fbd41-4be7-406d-8ea2-18a467cabab3)
+
